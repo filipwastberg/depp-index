@@ -1,6 +1,6 @@
 # Vilken är Kents mest deprimerande låt?
 
-Det här är en repo för min presentation på Stockholm Data Science Meetup. Här finns data och kod för mitt så kallade depp-index över Kents mest deprimerande låtar. Presentation i sin helhet finns [här](https://cdn.rawgit.com/filipwastberg/depp-index/e28f1ac6/depp-presentation-xaringan2.html#8)
+Det här är en repo för min presentation på Stockholm Data Science Meetup. Här finns data och kod för mitt så kallade depp-index över Kents mest deprimerande låtar. Presentation i sin helhet finns [här](https://cdn.rawgit.com/filipwastberg/depp-index/e28f1ac6/depp-presentation-xaringan2.html#1)
 
 För en mer utförlig dokumentation kika på min hemsida [dataland.rbind.io](dataland.rbind.io)
 
